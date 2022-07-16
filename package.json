@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "vercel build server.js",
     "dev": "nodemon server.js"
   },
   "keywords": [],
